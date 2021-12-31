@@ -1,4 +1,4 @@
-# openvpn-install
+# pptpd-install
 
 pptpd installer for Debian, Ubuntu.
 
