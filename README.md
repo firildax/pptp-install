@@ -68,4 +68,4 @@ To be noted:
 
 ## Licence
 
-This project is under the [MIT Licence](https://github.com/firildax/pptpd-install/master/LICENSE)
+This project is under the [MIT Licence](https://github.com/firildax/pptp-install/blob/master/LICENSE)
