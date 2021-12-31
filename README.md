@@ -1,4 +1,4 @@
-# pptpd-install
+# pptp-install
 
 pptpd installer for Debian, Ubuntu.
 
